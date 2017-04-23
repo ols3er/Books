@@ -1,63 +1,63 @@
 
-Õ¾ÄÚËÑË÷µØÖ·Îª£º 
-http://www.google.com/custom?domains=£¨ÕâÀïĞ´ÎÒÃÇÒªËÑË÷µÄÕ¾µã£¬±ÈÈçfeelids.com£© 
-½øÈ¥¿ÉÒÔÑ¡ÔñwwwºÍfeelids.com£¬ µ±È»ÔÙÑ¡ÎÒÃÇÒªµÄÕ¾ÄÚËÑË÷Å¶£¡ 
-ºÚ¿Í×¨ÓÃĞÅÏ¢ºÍ×ÊÁÏËÑË÷µØÖ·Îª£º 
+ç«™å†…æœç´¢åœ°å€ä¸ºï¼š 
+http://www.google.com/custom?domains=ï¼ˆè¿™é‡Œå†™æˆ‘ä»¬è¦æœç´¢çš„ç«™ç‚¹ï¼Œæ¯”å¦‚feelids.comï¼‰ 
+è¿›å»å¯ä»¥é€‰æ‹©wwwå’Œfeelids.comï¼Œ å½“ç„¶å†é€‰æˆ‘ä»¬è¦çš„ç«™å†…æœç´¢å“¦ï¼ 
+é»‘å®¢ä¸“ç”¨ä¿¡æ¯å’Œèµ„æ–™æœç´¢åœ°å€ä¸ºï¼š 
 http://www.google.com/custom?hl=xx-hacker 
-ÕâÀïÊÇgoogle¹Ø¼ü×ÖµÄÓÃ·¨£¬ÒªÉèÖÃËüÎªÖĞÎÄ£¬ÔòÊÇ 
+è¿™é‡Œæ˜¯googleå…³é”®å­—çš„ç”¨æ³•ï¼Œè¦è®¾ç½®å®ƒä¸ºä¸­æ–‡ï¼Œåˆ™æ˜¯ 
 http://www.google.com/custom?hl=zh-CN 
-Ó¢ÎÄÔòÊÇhttp://www.google.com/custom?hl=en
+è‹±æ–‡åˆ™æ˜¯http://www.google.com/custom?hl=en
 
-³£ÓÃµÄgoogle¹Ø¼ü×Ö£º 
-foo1 foo2 (Ò²¾ÍÊÇ¹ØÁª£¬±ÈÈçËÑË÷xx¹«Ë¾ xxÃÀÅ®) 
+å¸¸ç”¨çš„googleå…³é”®å­—ï¼š 
+foo1 foo2 (ä¹Ÿå°±æ˜¯å…³è”ï¼Œæ¯”å¦‚æœç´¢xxå…¬å¸ xxç¾å¥³) 
 operator:foo 
-filetype:123 ÀàĞÍ 
-site:foo.com Ïà¶ÔÖ±½Ó¿´ÍøÕ¾¸üÓĞÒâË¼£¬¿ÉÒÔµÃµ½Ğí¶àÒâÍâµÄĞÅÏ¢ 
+filetype:123 ç±»å‹ 
+site:foo.com ç›¸å¯¹ç›´æ¥çœ‹ç½‘ç«™æ›´æœ‰æ„æ€ï¼Œå¯ä»¥å¾—åˆ°è®¸å¤šæ„å¤–çš„ä¿¡æ¯ 
 intext:foo 
-intitle: fooltitle ±êÌâÅ¶ 
-allinurl:foo ËÑË÷xxÍøÕ¾µÄËùÓĞÏà¹ØÁ¬½Ó¡££¨²Èµã±Ø±¸£© 
-links:foo ²»ÒªËµ¾ÍÖªµÀÊÇËüµÄÏà¹ØÁ´½Ó 
+intitle: fooltitle æ ‡é¢˜å“¦ 
+allinurl:foo æœç´¢xxç½‘ç«™çš„æ‰€æœ‰ç›¸å…³è¿æ¥ã€‚ï¼ˆè¸©ç‚¹å¿…å¤‡ï¼‰ 
+links:foo ä¸è¦è¯´å°±çŸ¥é“æ˜¯å®ƒçš„ç›¸å…³é“¾æ¥ 
 allintilte:foo.com
 
-ÎÒÃÇ¿ÉÒÔ¸¨Öú"-" "+"À´µ÷ÕûËÑË÷µÄ¾«È·³Ì¶È
+æˆ‘ä»¬å¯ä»¥è¾…åŠ©"-" "+"æ¥è°ƒæ•´æœç´¢çš„ç²¾ç¡®ç¨‹åº¦
 
-Ö±½ÓËÑË÷ÃÜÂë£º(ÒıºÅ±íÊ¾Îª¾«È·ËÑË÷) 
-µ±È»ÎÒÃÇ¿ÉÒÔÔÙÑÓÉìµ½ÉÏÃæµÄ½á¹ûÀï½øĞĞ¶ş´ÎËÑË÷ 
+ç›´æ¥æœç´¢å¯†ç ï¼š(å¼•å·è¡¨ç¤ºä¸ºç²¾ç¡®æœç´¢) 
+å½“ç„¶æˆ‘ä»¬å¯ä»¥å†å»¶ä¼¸åˆ°ä¸Šé¢çš„ç»“æœé‡Œè¿›è¡ŒäºŒæ¬¡æœç´¢ 
 "index of" htpasswd / passwd 
 filetype:xls username password email 
 "ws_ftp.log" 
 "config.php" 
 allinurl:admin mdb 
-service filetype:pwd ....»òÕßÄ³¸ö±ÈÈçpcanywhereµÄÃÜÂëºó×ºcifµÈ
+service filetype:pwd ....æˆ–è€…æŸä¸ªæ¯”å¦‚pcanywhereçš„å¯†ç åç¼€cifç­‰
 
-Ô½À´Ô½ÓĞÒâË¼ÁË£¬ÔÙÀ´µã¸üÃô¸ĞĞÅÏ¢ 
+è¶Šæ¥è¶Šæœ‰æ„æ€äº†ï¼Œå†æ¥ç‚¹æ›´æ•æ„Ÿä¿¡æ¯ 
 "robots.txt" "Disallow:" filetype:txt 
-inurl:_vti_cnf (FrontPageµÄ¹Ø¼üË÷ÒıÀ²£¬É¨ÃèÆ÷µÄCGI¿âÒ»°ã¶¼ÓĞµØ) 
+inurl:_vti_cnf (FrontPageçš„å…³é”®ç´¢å¼•å•¦ï¼Œæ‰«æå™¨çš„CGIåº“ä¸€èˆ¬éƒ½æœ‰åœ°) 
 allinurl: /msadc/Samples/selector/showcode.asp 
 /../../../passwd 
 /examples/jsp/snp/snoop.jsp 
 phpsysinfo 
-intitle:index of /admin 
+intitle:index of /admin  
 intitle:"documetation" 
-inurl: 5800(vncµÄ¶Ë¿Ú)»òÕßdesktop portµÈ¶à¸ö¹Ø¼ü×Ö¼ìË÷ 
+inurl: 5800(vncçš„ç«¯å£)æˆ–è€…desktop portç­‰å¤šä¸ªå…³é”®å­—æ£€ç´¢ 
 webmin port 10000 
 inurl:/admin/login.asp 
 intext:Powered by GBook365 
-intitle:"php shell*" "Enable stderr" filetype:php Ö±½ÓËÑË÷µ½phpwebshell
+intitle:"php shell*" "Enable stderr" filetype:php ç›´æ¥æœç´¢åˆ°phpwebshell
 
 foo.org filetype:inc
 
 ipsec filetype:conf 
-intilte:"error occurred" ODBC request WHERE (select|insert) Ëµ°×ÁË¾ÍÊÇËµ£¬¿ÉÒÔÖ±½ÓÊÔ×Å²é²éÊı¾İ¿â¼ìË÷£¬Õë¶ÔÄ¿Ç°Á÷ĞĞµÄsql×¢Éä£¬»á·¢´ïÅ¶ 
+intilte:"error occurred" ODBC request WHERE (select|insert) è¯´ç™½äº†å°±æ˜¯è¯´ï¼Œå¯ä»¥ç›´æ¥è¯•ç€æŸ¥æŸ¥æ•°æ®åº“æ£€ç´¢ï¼Œé’ˆå¯¹ç›®å‰æµè¡Œçš„sqlæ³¨å°„ï¼Œä¼šå‘è¾¾å“¦ 
 intitle:"php shell*" "Enable stderr" filetype:php 
 "Dumping data for table" username password 
 intitle:"Error using Hypernews" 
 "Server Software" 
 intitle:"HTTP_USER_AGENT=Googlebot" 
 "HTTP_USER_ANGET=Googlebot" THS ADMIN 
-filetype:.doc site:.mil classified Ö±½ÓËÑË÷¾ü·½Ïà¹Øword
+filetype:.doc site:.mil classified ç›´æ¥æœç´¢å†›æ–¹ç›¸å…³word
 
-¼ì²é¶à¸ö¹Ø¼ü×Ö£º 
+æ£€æŸ¥å¤šä¸ªå…³é”®å­—ï¼š 
 intitle:config confixx login password
 
 "mydomain.com" nessus report 
@@ -65,23 +65,23 @@ intitle:config confixx login password
 "ipconfig" 
 "winipconfig"
 
-google»º´æÀûÓÃ£¨hoho£¬×îÓĞÓ°ÏìÁ¦µÄ¶«Î÷£©ÍÆ¼ö´ó¼ÒËÑË÷Ê±ºò¶à"Ñ¡ËÑË÷ËùÓĞÍøÕ¾" 
-ÌØ±ğÍÆ¼ö£ºadministrator users µÈÏà¹ØµÄ¶«Î÷£¬±ÈÈçÃû×Ö£¬ÉúÈÕµÈ¡­¡­×î²ÒÒ²¿ÉÒÔÄÃÀ´×ö×ÖµäÂï 
+googleç¼“å­˜åˆ©ç”¨ï¼ˆhohoï¼Œæœ€æœ‰å½±å“åŠ›çš„ä¸œè¥¿ï¼‰æ¨èå¤§å®¶æœç´¢æ—¶å€™å¤š"é€‰æœç´¢æ‰€æœ‰ç½‘ç«™" 
+ç‰¹åˆ«æ¨èï¼šadministrator users ç­‰ç›¸å…³çš„ä¸œè¥¿ï¼Œæ¯”å¦‚åå­—ï¼Œç”Ÿæ—¥ç­‰â€¦â€¦æœ€æƒ¨ä¹Ÿå¯ä»¥æ‹¿æ¥åšå­—å…¸å˜› 
 cache:foo.com
 
-¿ÉÒÔ²éÔÄÀàËÆ½á¹û
+å¯ä»¥æŸ¥é˜…ç±»ä¼¼ç»“æœ
 
-ÏÈÕÒÕÒÍøÕ¾µÄ¹ÜÀíºóÌ¨µØÖ·£º 
-site:xxxx.com intext:¹ÜÀí 
+å…ˆæ‰¾æ‰¾ç½‘ç«™çš„ç®¡ç†åå°åœ°å€ï¼š 
+site:xxxx.com intext:ç®¡ç† 
 site:xxxx.com inurl:login 
-site:xxxx.com intitle:¹ÜÀí 
+site:xxxx.com intitle:ç®¡ç† 
 site:a2.xxxx.com inurl:file 
 site:a3.xxxx.com inurl:load 
 site:a2.xxxx.com intext:ftp://*:* 
 site:a2.xxxx.com filetype:asp 
-site:xxxx.com //µÃµ½N¸ö¶ş¼¶ÓòÃû 
-site:xxxx.com intext:*@xxxx.com //µÃµ½N¸öÓÊ¼şµØÖ·£¬»¹ÓĞÓÊÏäµÄÖ÷ÈËµÄÃû×ÖÊ²Ã´µÄ 
-site:xxxx.com intext:µç»° //N¸öµç»° 
+site:xxxx.com //å¾—åˆ°Nä¸ªäºŒçº§åŸŸå 
+site:xxxx.com intext:*@xxxx.com //å¾—åˆ°Nä¸ªé‚®ä»¶åœ°å€ï¼Œè¿˜æœ‰é‚®ç®±çš„ä¸»äººçš„åå­—ä»€ä¹ˆçš„ 
+site:xxxx.com intext:ç”µè¯ //Nä¸ªç”µè¯ 
 intitle:"index of" etc 
 intitle:"Index of" .sh_history 
 intitle:"Index of" .bash_history 
@@ -99,15 +99,15 @@ filetype:mdb inurl:database
 filetype:inc conn 
 inurl:data filetype:mdb 
 intitle:"index of" data 
-¡­¡­
+â€¦â€¦
 
-Ò»Ğ©¼¼ÇÉ¼¯ºÏ£º
+ä¸€äº›æŠ€å·§é›†åˆï¼š
 
-3) "http://*:*@www" domainname ÕÒÒ»Ğ©ISPÕ¾µã£¬¿ÉÒÔ²é¶Ô·½ipµÄĞéÄâÖ÷»ú 
-4) auth_user_file.txt ²»ÊµÓÃÁË£¬Ì«ÀÏÁË
-5) The Master List Ñ°ÕÒÓÊ¼şÁĞ±íµÄ
-6) intitle:"welcome.to.squeezebox" Ò»ÖÖÌØÊâµÄ¹ÜÀíÏµÍ³£¬Ä¬ÈÏ¿ª·Å¶Ë¿Ú90 
-7) passlist.txt (a better way) ×Öµä
+3) "http://*:*@www" domainname æ‰¾ä¸€äº›ISPç«™ç‚¹ï¼Œå¯ä»¥æŸ¥å¯¹æ–¹ipçš„è™šæ‹Ÿä¸»æœº 
+4) auth_user_file.txt ä¸å®ç”¨äº†ï¼Œå¤ªè€äº†
+5) The Master List å¯»æ‰¾é‚®ä»¶åˆ—è¡¨çš„
+6) intitle:"welcome.to.squeezebox" ä¸€ç§ç‰¹æ®Šçš„ç®¡ç†ç³»ç»Ÿï¼Œé»˜è®¤å¼€æ”¾ç«¯å£90 
+7) passlist.txt (a better way) å­—å…¸
 8) "A syntax error has occurred" filetype:ihtml
 9) ext:php program_listing intitle:MythWeb.Program.Listing 
 10) intitle:index.of abyss.conf 
@@ -124,7 +124,7 @@ intitle:"index of" data
 25)inurl:"port_255" -htm
 27)intitle:"WorldClient" intext:"? (2003|2004) Alt-N Technologies."
 
-ÕâĞ©ÊÇĞÂµÄÒ»Ğ©Â©¶´¼¼ÇÉ£¬ÔÚ0days¹«¸æ¹«²¼
+è¿™äº›æ˜¯æ–°çš„ä¸€äº›æ¼æ´æŠ€å·§ï¼Œåœ¨0dayså…¬å‘Šå…¬å¸ƒ
 
 ext:php program_listing intitle:MythWeb.Program.Listing
 
@@ -134,7 +134,7 @@ intitle:"Index of /CFIDE/" administrator
 
 "access denied for user" "using password"
 
-ext:php intext:"Powered by phpNewMan Version" ¿ÉÒÔ¿´µ½£ºpath/to/news/browse.php?clang=../../../../../../file/i/want
+ext:php intext:"Powered by phpNewMan Version" å¯ä»¥çœ‹åˆ°ï¼špath/to/news/browse.php?clang=../../../../../../file/i/want
 
 inurl:"/becommunity/community/index.php?pageurl="
 
@@ -294,7 +294,7 @@ inurl:lilo.conf filetype:conf password -tatercounter -bootpwd -man
 
 inurl:nuke filetype:sql
 
-inurl:ospfd.conf intext:password -sample -test -tutorial -download Â·ÓÉÅäÖÃ 
+inurl:ospfd.conf intext:password -sample -test -tutorial -download è·¯ç”±é…ç½® 
 inurl:pap-secrets -cvs
 
 inurl:perform filetype:ini 
@@ -311,7 +311,7 @@ inurl:zebra.conf intext:password -sample -test -tutorial -download
 
 "HTTP_FROM=googlebot" googlebot.com "Server_Software="
 
-"Index of" / "chat/logs" ÁÄÌìÊÒ 
+"Index of" / "chat/logs" èŠå¤©å®¤ 
 "Installed Objects Scanner" inurl:default.asp
 
 "Mecury Version" "Infastructure Group" 
